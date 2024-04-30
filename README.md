@@ -1,17 +1,17 @@
-## Olá, eu sou o hwoxan, também conhecido como pudim! 👋
+## Olá, eu sou hwoxan, também conhecido como pudim! 👋
 
 <div align="center">
   <a href="https://github.com/hwoxan">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hwoxan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
-
+  
 ##
 
 <div style="display: inline_block"><br>
   <img align="right" alt="Hyvo-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/5f/f0/2b/5ff02b04a5d5de7528b5c24d47326877.jpg">
 </div>
-
+  
 ##
 
 <div> 
