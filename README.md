@@ -1,7 +1,7 @@
 ## Oiii, eu sou hwoxan vulgo/taldo pudim!
 <div align="center">
   <a href="https://github.com/hwoxan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hwoxan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hwoxan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
   ##
